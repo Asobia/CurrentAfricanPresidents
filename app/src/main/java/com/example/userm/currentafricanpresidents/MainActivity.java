@@ -45,9 +45,10 @@ public class MainActivity extends AppCompatActivity {
             // score by one if the right answer was given.
             rightAnswersToQuestionSix();//Checks for right answers to question six and increments
             // score by one if the right answers were were checked.
-            Toast.makeText(this, R.string.number_of_correct_answers + score +
-                            R.string.possible_number_of_score + NUMBER_OF_QUESTIONS,
-                    Toast.LENGTH_SHORT).show();
+            Toast.makeText(this, getResources().getString(
+                    R.string.number_of_correct_answers)
+                    + " " + score + " " + getResources().getString(R.string.possible_number_of_score)
+                    + " " + NUMBER_OF_QUESTIONS, Toast.LENGTH_SHORT).show();
             score = 0; //This resets the score to zero after displaying the toast message
             // in cases where at least one question was answered
             clearAnswers();
@@ -229,6 +230,7 @@ public class MainActivity extends AppCompatActivity {
         EditText nameView = (EditText) findViewById(R.id.question_5_answer_view);
         nameView.setText("");
     }
+
 }
 
 
