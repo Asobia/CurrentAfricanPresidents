@@ -31,7 +31,7 @@
     <string name="third_option_for_question_6">Liberia</string>
     <string name="fourth_option_for_question_6">Mauritius</string>
     <string name="toast_when_a_user_tries_to_submit_without_at_least_supplying_an_answer">You cannot submit a blank sheet</string>
-    <string name="toast_when_more_than_two_answers_were_given_for_question_6">Question Six cannot have more than two answers</string>
+    <string name="toast_when_more_than_two_answers_were_given_for_question_6">Question six cannot have more than two answers</string>
     <string name="number_of_correct_answers">You scored </string>
     <string name="possible_number_of_score">out of</string>
 </resources>
