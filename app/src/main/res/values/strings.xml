@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">Current African Presidents</string>
+    <string name="question_1">1. Who is the president of Nigeria?</string>
+    <string name="instruction">Give the correct answers to the following questions.</string>
+    <string name="first_option_for_question_1">Donald John Trump</string>
+    <string name="second_option_for_question_1">Abdel Fattah el-Sisi</string>
+    <string name="third_option_for_question_1">Muhammadu Buhari</string>
+    <string name="fourth_option_for_question_1">Yemi Osinbajo</string>
+    <string name="question_2">2. Who is the president of Cameroon?</string>
+    <string name="first_option_for_question_2">Paul Biya</string>
+    <string name="second_option_for_question_2">Marcel Niat Njifenji</string>
+    <string name="third_option_for_question_2">Nana Akufo-Addo</string>
+    <string name="fourth_option_for_question_2">Martin Luther King jr.</string>
+    <string name="question_3">3. Who is the president of Zimbabwe?</string>
+    <string name="first_option_for_question_3">Olusegun Obasanjo</string>
+    <string name="second_option_for_question_3">Cyril Ramaphosa</string>
+    <string name="third_option_for_question_3">Emmerson Mnangagwa</string>
+    <string name="fourth_option_to_question_3">Ezenwo Nyesom Wike</string>
+    <string name="question_4">4. Who is the president of Ethiopia?</string>
+    <string name="first_option_for_question_4">Mulatu Teshome</string>
+    <string name="second_option_for_question_4">Rabiu Kwankwaso</string>
+    <string name="third_option_for_question_4">Orji Uzor Kalu</string>
+    <string name="fourth_option_for_question_4">Ibrahim Boubacar Keïta</string>
+    <string name="submit_button_text">submit</string>
+    <string name="question_5_hint">FirstName MiddleName OtherName </string>
+    <string name="full_name_of_the_president_of_south_africa">Matamela Cyril Ramaphosa</string>
+    <string name="question_5">5. Write the full name of South Africa\'s president</string>
+    <string name="question_6">6. Select the two countries in Africa with past female presidents</string>
+    <string name="first_option_for_question_6">Kenya</string>
+    <string name="second_option_for_question_6">Gabon</string>
+    <string name="third_option_for_question_6">Liberia</string>
+    <string name="fourth_option_for_question_6">Mauritius</string>
+    <string name="toast_when_a_user_tries_to_submit_without_at_least_supplying_an_answer">You cannot submit a blank sheet</string>
+    <string name="toast_when_more_than_two_answers_were_given_for_question_6">Question Six cannot have more than two answers</string>
+    <string name="number_of_correct_answers">You scored </string>
+    <string name="possible_number_of_score"> out of </string>
+</resources>
